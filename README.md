@@ -1,4 +1,5 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaR0014/portfolio-dashboard/blob/main/notebook.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaR0014/portfolio-dashboard/blob/main/Scripts/Notebook.ipynb)
+
 
 # Portfolio Dashboard
 
