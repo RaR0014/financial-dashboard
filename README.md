@@ -1,4 +1,3 @@
-# financial-dashboard
 
 # Portfolio Dashboard
 
