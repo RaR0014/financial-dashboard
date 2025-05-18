@@ -91,5 +91,5 @@ Each chart is first built in the notebook, then integrated into a combined dashb
 1. **Clone** this repo:
 
    ```bash
-   git clone https://github.com/<your-username>/portfolio-dashboard.git
+   git clone https://github.com/RaR0014/financial-dashboard.git
    cd portfolio-dashboard
